@@ -6,6 +6,7 @@ public class HelloGit {
 		String s = "Hello Git!";
 		System.out.println(s);
 		System.out.println("--------------");
+		System.out.println("==============");
 
 	}
 
